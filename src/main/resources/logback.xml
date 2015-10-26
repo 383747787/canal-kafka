@@ -14,7 +14,7 @@
 		</encoder>
 	</appender>
 	
-	<logger name="com.caiyunworks.canal.kafka.AbstractCanalClient" additivity="false">
+	<logger name="com.caiyunworks.search.AbstractCanalClient" additivity="false">
         <level value="INFO" />  
         <appender-ref ref="ENTRY_LOG" />
     </logger>
